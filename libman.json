@@ -1,0 +1,38 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "font-awesome@5.15.1",
+      "destination": "wwwroot/lib/font-awesome"
+    },
+    {
+      "library": "iCheck@1.0.3",
+      "destination": "wwwroot/lib/iCheck"
+    },
+    {
+      "library": "layer@3.1.1",
+      "destination": "wwwroot/lib/layer"
+    },
+    {
+      "library": "jquery-cookie@1.4.1",
+      "destination": "wwwroot/lib/jquery-cookie"
+    },
+    {
+      "library": "ionicons@5.2.3",
+      "destination": "wwwroot/lib/ionicons"
+    },
+    {
+      "library": "Chart.js@2.9.4",
+      "destination": "wwwroot/lib/Chart.js"
+    },
+    {
+      "library": "datatables@1.10.21",
+      "destination": "wwwroot/lib/datatables"
+    },
+    {
+      "library": "fullcalendar@3.10.2",
+      "destination": "wwwroot/lib/fullcalendar"
+    }
+  ]
+}
